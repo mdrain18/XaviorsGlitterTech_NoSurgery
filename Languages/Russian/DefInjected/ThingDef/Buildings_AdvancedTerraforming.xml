@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ImpactionCharge.label>Сжатый заряд</ImpactionCharge.label>
+  <ImpactionCharge.description>Взрывается по команде. Создает направленный взрыв плазмы, который воздействует прямо на коренную породу. Используется для добычи астероидов и доступа к подземным ресурсам.</ImpactionCharge.description>
+  <ImpactionCharge_Blueprint.label>Сжатый заряд (проект)</ImpactionCharge_Blueprint.label>
+  <ImpactionCharge_Frame.label>Сжатый заряд (постройка)</ImpactionCharge_Frame.label>
+
+
+</LanguageData>

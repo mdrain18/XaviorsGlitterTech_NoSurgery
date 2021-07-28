@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injuries -->
+
+  <HeatStab.label>колотая рана</HeatStab.label>
+  <HeatStab.comps.0.labelTendedWell>перевязана</HeatStab.comps.0.labelTendedWell>
+  <HeatStab.comps.0.labelTendedWellInner>зашита</HeatStab.comps.0.labelTendedWellInner>
+  <HeatStab.comps.0.labelSolidTendedWell>обработана</HeatStab.comps.0.labelSolidTendedWell>
+  <HeatStab.injuryProps.destroyedLabel>расплавлено</HeatStab.injuryProps.destroyedLabel>
+  <HeatStab.injuryProps.destroyedOutLabel>расплавлено</HeatStab.injuryProps.destroyedOutLabel>
+
+
+</LanguageData>

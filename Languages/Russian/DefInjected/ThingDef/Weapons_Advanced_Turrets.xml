@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bases -->
+
+  <Bullet_EMRGTurret.label>Пуля самодельной турели</Bullet_EMRGTurret.label>
+
+  <Gun_EMRGTurret.label>Турель с EMRG</Gun_EMRGTurret.label>
+  <Gun_EMRGTurret.description>Винтовка EMRG, прикреплена к турели.</Gun_EMRGTurret.description>
+
+  <Bullet_CannisterTurret.label>Пуля самодельной турели</Bullet_CannisterTurret.label>
+
+  <Gun_CannisterTurret.label>Картечная турель</Gun_CannisterTurret.label>
+  <Gun_CannisterTurret.description>Среднее между миниганом и ружьем, прикрепленное к турели.</Gun_CannisterTurret.description>
+
+
+  <!-- Bomb mortar -->
+
+  <Bullet_AutoMortar.label>Разрывной снаряд мортиры</Bullet_AutoMortar.label>
+
+  <Artillery_AutoMortar.label>Мотрира</Artillery_AutoMortar.label>
+  <Artillery_AutoMortar.description>Мортира. Стреляет чрез стены. Очень неточный, но с большим радиусом атаки.</Artillery_AutoMortar.description>
+
+  <Bullet_ClusterMortar.label>Разрывной снаряд мортиры</Bullet_ClusterMortar.label>
+
+  <Artillery_ClusterMortar.label>Мортира</Artillery_ClusterMortar.label>
+  <Artillery_ClusterMortar.description>Мортира. Стреляет чрез стены. Очень неточный, но с большим радиусом атаки.</Artillery_ClusterMortar.description>
+
+  <Bullet_EMPAMortar.label>Разрывной снаряд мортиры</Bullet_EMPAMortar.label>
+
+  <Artillery_EMPAMortar.label>Мортира</Artillery_EMPAMortar.label>
+  <Artillery_EMPAMortar.description>Мортира. Стреляет чрез стены. Очень неточный, но с большим радиусом атаки.</Artillery_EMPAMortar.description>
+
+  <Bullet_MissileTurret.label>Разрывной снаряд мортиры</Bullet_MissileTurret.label>
+
+  <Artillery_MissileTurret.label>Мортира</Artillery_MissileTurret.label>
+  <Artillery_MissileTurret.description>Ракетная пусковая установка. Запускает большое количество ракет.</Artillery_MissileTurret.description>
+
+  <Bullet_CMissileTurret.label>Разрывной снаряд мортиры</Bullet_CMissileTurret.label>
+
+  <Artillery_CMissileTurret.label>Мортира</Artillery_CMissileTurret.label>
+  <Artillery_CMissileTurret.description>Ракетная пусковая установка. Запускает большое количество ракет.</Artillery_CMissileTurret.description>
+
+
+</LanguageData>

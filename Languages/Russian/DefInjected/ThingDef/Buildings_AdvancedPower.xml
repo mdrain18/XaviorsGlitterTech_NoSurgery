@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PowerSource -->
+
+  <XenonIonTurbine.label>Ксенон-ионная турбина</XenonIonTurbine.label>
+  <XenonIonTurbine.description>Производит электричество путем сбора следов ксенона из воды и ионизации его в плазме. Должен быть помещен на гейзере.</XenonIonTurbine.description>
+  <XenonIonTurbine_Blueprint.label>Ксенон-ионная турбина (проект)</XenonIonTurbine_Blueprint.label>
+  <XenonIonTurbine_Frame.label>Ксенон-ионная турбина (постройка)</XenonIonTurbine_Frame.label>
+
+  <PlasmaReactor.label>Плазменно-термоядерный реактор</PlasmaReactor.label>
+  <PlasmaReactor.description>Производит электричество, поддерживая электромагнитную воронку сверхнагретой плазмы. Подобно процессу внутри звезды, только небольшой, более горячей и более эффективной. Достигнутое тепло настолько интенсивно, что требует прокладки вблизи нерушимых материалов.</PlasmaReactor.description>
+  <PlasmaReactor_Blueprint.label>Плазменно-термоядерный реактор (проект)</PlasmaReactor_Blueprint.label>
+  <PlasmaReactor_Frame.label>Плазменно-термоядерный реактор (постройка)</PlasmaReactor_Frame.label>
+
+
+  <!-- Batteries -->
+
+  <FissionBattery.label>Батарея</FissionBattery.label>
+  <FissionBattery.description>Сохраняет электричество и перерабатывает заряд, используя процессы деления. Чуть более эффективна и сохраняет в четыре раза больше энергии. Предупреждение - заряженные батареи, как правило, взрываются при нагреве или намокании.</FissionBattery.description>
+  <FissionBattery_Blueprint.label>Батарея (проект)</FissionBattery_Blueprint.label>
+  <FissionBattery_Blueprint_Install.label>Батарея (проект)</FissionBattery_Blueprint_Install.label>
+  <FissionBattery_Frame.label>Батарея (постройка)</FissionBattery_Frame.label>
+
+  <HeavyPowerConduit.label>Тяжёлый кабель</HeavyPowerConduit.label>
+  <HeavyPowerConduit.description>Набор тяжелых электрических кабелей, очень прочных и не воспламеняющихся.</HeavyPowerConduit.description>
+  <HeavyPowerConduit_Blueprint.label>Тяжёлый кабель (проект)</HeavyPowerConduit_Blueprint.label>
+  <HeavyPowerConduit_Frame.label>Тяжёлый кабель (постройка)</HeavyPowerConduit_Frame.label>
+
+
+</LanguageData>

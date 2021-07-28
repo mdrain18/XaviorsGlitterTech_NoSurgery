@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bomb mortar -->
+
+  <Bullet_OCTankShell.label>Разрывной снаряд мортиры</Bullet_OCTankShell.label>
+
+  <Gun_OCTurret.label>Инферно пушка</Gun_OCTurret.label>
+  <Gun_OCTurret.description>Зажигательное мини-артиллерийское устройство. Сделано механоидами.</Gun_OCTurret.description>
+
+
+</LanguageData>

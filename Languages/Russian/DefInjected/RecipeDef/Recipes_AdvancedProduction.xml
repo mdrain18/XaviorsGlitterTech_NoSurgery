@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SearchComponents.label>Поиск компонента</SearchComponents.label>
+  <SearchComponents.description>Поиск в множестве разных частей, редкого компьютерного компонента.</SearchComponents.description>
+  <SearchComponents.jobString>Ищет в компонентах, компьютерный компонент.</SearchComponents.jobString>
+
+
+  <!-- Polys -->
+
+  <ProduceAPoly.label>Собрать искусственный Альфа полимер</ProduceAPoly.label>
+  <ProduceAPoly.description>Используйте тепло и сильные электромагниты для сборки искусственных элементов из титана и урана.</ProduceAPoly.description>
+  <ProduceAPoly.jobString>Собирает Альфа полимер из титана.</ProduceAPoly.jobString>
+
+  <ProduceBPoly.label>Собрать искусственный Бета полимер</ProduceBPoly.label>
+  <ProduceBPoly.description>Используйте тепло и сильные электромагниты для сборки искусственных элементов из альфа полимера, урана и кремния.</ProduceBPoly.description>
+  <ProduceBPoly.jobString>Собирает Бета полимер.</ProduceBPoly.jobString>
+
+  <ProducePlasteel.label>Сделать пласталь</ProducePlasteel.label>
+  <ProducePlasteel.description>Сделать пласталь.</ProducePlasteel.description>
+  <ProducePlasteel.jobString>Делает пласталь.</ProducePlasteel.jobString>
+
+
+  <!-- Electrolyzer -->
+
+  <ProduceSilicon.label>Сделать кремний из камня</ProduceSilicon.label>
+  <ProduceSilicon.description>Сделать кремний из камня.</ProduceSilicon.description>
+  <ProduceSilicon.jobString>Делает кремний из камня.</ProduceSilicon.jobString>
+
+  <ProduceTitanium.label>Сделать титан из пластали</ProduceTitanium.label>
+  <ProduceTitanium.description>Сделать титан из пластали.</ProduceTitanium.description>
+  <ProduceTitanium.jobString>Делает титан из пластали.</ProduceTitanium.jobString>
+
+  <ProduceEthanol.label>Сделать этанол из ягод</ProduceEthanol.label>
+  <ProduceEthanol.description>Сделать этанол из ягод.</ProduceEthanol.description>
+  <ProduceEthanol.jobString>Делает этанол из ягод.</ProduceEthanol.jobString>
+
+  <ProduceSerum.label>Сделать сыворотку</ProduceSerum.label>
+  <ProduceSerum.description>Сделать сыворотку.</ProduceSerum.description>
+  <ProduceSerum.jobString>Делает сыворотку.</ProduceSerum.jobString>
+
+
+  <!-- Robotic Assembler -->
+
+  <BuildComputerComp.label>Собрать компьютерный компонент</BuildComputerComp.label>
+  <BuildComputerComp.description>Собрать компьютерный компонент.</BuildComputerComp.description>
+  <BuildComputerComp.jobString>Собирает компьютерный компонент.</BuildComputerComp.jobString>
+
+  <BuildMagneticCoil.label>Собрать магнитную катушку</BuildMagneticCoil.label>
+  <BuildMagneticCoil.description>Собрать магнитную катушку.</BuildMagneticCoil.description>
+  <BuildMagneticCoil.jobString>Собирает магнитную катушку.</BuildMagneticCoil.jobString>
+
+
+</LanguageData>

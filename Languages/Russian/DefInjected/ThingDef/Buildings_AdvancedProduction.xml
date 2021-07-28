@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <PharmaTable.label>Фармацевтический стол</PharmaTable.label>
+  <PharmaTable.description>Стол и инструменты для смешивания и производства лекарств и медикаментов.</PharmaTable.description>
+  <PharmaTable_Blueprint.label>Фармацевтический стол (проект)</PharmaTable_Blueprint.label>
+  <PharmaTable_Frame.label>Фармацевтический стол (постройка)</PharmaTable_Frame.label>
+
+
+  <!-- Matter fabricator -->
+
+  <Matterfab.label>Фабрикатор материи</Matterfab.label>
+  <Matterfab.description>С помощью квантовой термодинамики и плазменной спектрометрии эта машина разбирает элементы в базовые субатомные частицы и вновь собирает их в мощные искусственные элементы.</Matterfab.description>
+  <Matterfab_Blueprint.label>Фабрикатор материи (проект)</Matterfab_Blueprint.label>
+  <Matterfab_Frame.label>Фабрикатор материи (постройка)</Matterfab_Frame.label>
+
+
+  <!-- Electrolyzer -->
+
+  <Electrolyzer.label>Электролизер</Electrolyzer.label>
+  <Electrolyzer.description>Машина, которая индуцирует электролиз, разделяет элементы, применяя прямой электрический ток и управляя не-спонтанными химическими реакциями. Производит искусственные материалы.</Electrolyzer.description>
+  <Electrolyzer_Blueprint.label>Электролизер (проект)</Electrolyzer_Blueprint.label>
+  <Electrolyzer_Frame.label>Электролизер (постройка)</Electrolyzer_Frame.label>
+
+
+  <!-- Robotic assembler -->
+
+  <RobAssem.label>Роботизированный сборщик</RobAssem.label>
+  <RobAssem.description>Машина, которая применяет современную робототехнику, а не Джерри, оснащённую металлоломом, для создания машинного компонента, слишком сложного для простых человеческих рук.</RobAssem.description>
+  <RobAssem_Blueprint.label>Роботизированный сборщик (проект)</RobAssem_Blueprint.label>
+  <RobAssem_Frame.label>Роботизированный сборщик (постройка)</RobAssem_Frame.label>
+
+
+</LanguageData>

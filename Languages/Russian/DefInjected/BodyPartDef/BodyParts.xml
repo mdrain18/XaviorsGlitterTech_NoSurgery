@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TankChassis -->
+
+  <TChassis.label>ходовая часть танка</TChassis.label>
+  <THull.label>Корпус</THull.label>
+  <TFrame.label>Каркас</TFrame.label>
+  <Engine.label>Двигатель</Engine.label>
+  <Crew.label>Экипаж</Crew.label>
+  <TurretActuator.label>Силовой привод башни</TurretActuator.label>
+  <CannonLoader.label>Казённая часть</CannonLoader.label>
+  <AmmoRack.label>Боекомплект</AmmoRack.label>
+  <TurretHull.label>Корпус башни</TurretHull.label>
+  <LeftTrack.label>Левый трак</LeftTrack.label>
+  <RightTrack.label>Правый трак</RightTrack.label>
+  <TrackChain.label>Цепь трака</TrackChain.label>
+  <Fender.label>Покрытие трака</Fender.label>
+  <WheelSystem.label>Трансмиссия</WheelSystem.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fabricating -->
+
+  <DoBillsMatterfab.label>Оператор фабрикатора материи</DoBillsMatterfab.label>
+  <DoBillsMatterfab.verb>изготовить</DoBillsMatterfab.verb>
+  <DoBillsMatterfab.gerund>изготовление</DoBillsMatterfab.gerund>
+
+  <DoBillsElectrolysis.label>Оператор электролизера</DoBillsElectrolysis.label>
+  <DoBillsElectrolysis.verb>электролиз</DoBillsElectrolysis.verb>
+  <DoBillsElectrolysis.gerund>электролиз</DoBillsElectrolysis.gerund>
+
+  <DoBillsRobassem.label>Оператор роботизированного сборщика</DoBillsRobassem.label>
+  <DoBillsRobassem.verb>собирать</DoBillsRobassem.verb>
+  <DoBillsRobassem.gerund>сборка</DoBillsRobassem.gerund>
+
+  <DoBillsPharma.label>Оператор фармацевтического стола</DoBillsPharma.label>
+  <DoBillsPharma.verb>произвести</DoBillsPharma.verb>
+  <DoBillsPharma.gerund>производство</DoBillsPharma.gerund>
+
+
+</LanguageData>

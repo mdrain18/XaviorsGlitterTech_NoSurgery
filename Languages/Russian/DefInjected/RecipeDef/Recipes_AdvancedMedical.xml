@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallGTEar.label>Вживить продвинутое бионическое ухо</InstallGTEar.label>
+  <InstallGTEar.description>Вживить продвинутое бионическое ухо.</InstallGTEar.description>
+  <InstallGTEar.jobString>Вживляет продвинутое бионическое ухо.</InstallGTEar.jobString>
+
+  <InstallGTEye.label>Вживить продвинутый бионический глаз</InstallGTEye.label>
+  <InstallGTEye.description>Вживить продвинутый бионический глаз.</InstallGTEye.description>
+  <InstallGTEye.jobString>Вживляет продвинутый бионический глаз.</InstallGTEye.jobString>
+
+  <InstallGTArm.label>Вживить продвинутую бионическую руку</InstallGTArm.label>
+  <InstallGTArm.description>Вживить продвинутую бионическую руку.</InstallGTArm.description>
+  <InstallGTArm.jobString>Вживляет продвинутую бионическую руку.</InstallGTArm.jobString>
+
+  <InstallGTHand.label>Вживить продвинутую бионическую кисть</InstallGTHand.label>
+  <InstallGTHand.description>Вживить продвинутую бионическую кисть.</InstallGTHand.description>
+  <InstallGTHand.jobString>Вживляет продвинутую бионическую кисть.</InstallGTHand.jobString>
+
+  <InstallGTLeg.label>Вживить продвинутую бионическую ногу</InstallGTLeg.label>
+  <InstallGTLeg.description>Вживить продвинутую бионическую ногу.</InstallGTLeg.description>
+  <InstallGTLeg.jobString>Вживляет продвинутую бионическую ногу.</InstallGTLeg.jobString>
+
+  <InstallGTFoot.label>Вживить продвинутую бионическую стопу</InstallGTFoot.label>
+  <InstallGTFoot.description>Вживить продвинутую бионическую стопу.</InstallGTFoot.description>
+  <InstallGTFoot.jobString>Вживляет продвинутую бионическую стопу.</InstallGTFoot.jobString>
+
+  <InstallGTHeart.label>Вживить кибернетическое сердце</InstallGTHeart.label>
+  <InstallGTHeart.description>Вживить кибернетическое сердце.</InstallGTHeart.description>
+  <InstallGTHeart.jobString>Вживляет кибернетическое сердце.</InstallGTHeart.jobString>
+
+  <InstallGTLung.label>Вживить кибернетическое легкое</InstallGTLung.label>
+  <InstallGTLung.description>Вживить кибернетическое легкое.</InstallGTLung.description>
+  <InstallGTLung.jobString>Вживляет кибернетическое легкое.</InstallGTLung.jobString>
+
+  <InstallGTKidney.label>Вживить кибернетическую почку</InstallGTKidney.label>
+  <InstallGTKidney.description>Вживить кибернетическую почку.</InstallGTKidney.description>
+  <InstallGTKidney.jobString>Вживляет кибернетическую почку.</InstallGTKidney.jobString>
+
+  <InstallGTLiver.label>Вживить кибернетическую печень</InstallGTLiver.label>
+  <InstallGTLiver.description>Вживить кибернетическую печень.</InstallGTLiver.description>
+  <InstallGTLiver.jobString>Вживляет кибернетическую печень.</InstallGTLiver.jobString>
+
+  <InstallGTStomach.label>Вживить кибернетический желудок</InstallGTStomach.label>
+  <InstallGTStomach.description>Вживить кибернетический желудок.</InstallGTStomach.description>
+  <InstallGTStomach.jobString>Вживляет кибернетический желудок.</InstallGTStomach.jobString>
+
+  <InstallGTDentures.label>Вживить кибернетические зубы</InstallGTDentures.label>
+  <InstallGTDentures.description>Вживить кибернетические зубы.</InstallGTDentures.description>
+  <InstallGTDentures.jobString>Вживляет кибернетические зубы.</InstallGTDentures.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_HC1Shield.label>Щит HC-1</Apparel_HC1Shield.label>
+  <Apparel_HC1Shield.description>Высокоёмкий энергетический щит. Класс персональных щитов верхнего уровня, марк 1 увеличивает энергоемкость в десять раз, но медленнее восстанавливает щит.</Apparel_HC1Shield.description>
+
+  <Apparel_OCShield.label>Щит корпуса Орион</Apparel_OCShield.label>
+  <Apparel_OCShield.description>Запатентованный персональный щит корпуса Орион. Стандартная емкость, но восстанавливает щит намного быстрее, чем остальные конкуренты.</Apparel_OCShield.description>
+
+
+</LanguageData>

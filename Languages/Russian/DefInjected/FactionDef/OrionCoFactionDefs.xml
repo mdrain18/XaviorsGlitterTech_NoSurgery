@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OrionCo.label>Корпорация Орион</OrionCo.label>
+  <OrionCo.description>Корпорация Орион</OrionCo.description>
+  <OrionCo.fixedName>Установка Орион</OrionCo.fixedName>
+  <OrionCo.pawnsPlural>Солдаты корпорации Орион</OrionCo.pawnsPlural>
+  <OrionCo.leaderTitle>Директор</OrionCo.leaderTitle>
+
+
+</LanguageData>

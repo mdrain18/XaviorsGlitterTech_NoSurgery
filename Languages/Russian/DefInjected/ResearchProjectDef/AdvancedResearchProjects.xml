@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetalFab.label>Металлообработка</MetalFab.label>
+  <MetalFab.description>Позволяет изготовливать передовые металлические стены. В частности, используя сложные материалы, такие как титан.</MetalFab.description>
+
+  <AdvancedArmor.label>Передовая броня</AdvancedArmor.label>
+  <AdvancedArmor.description>Обучает тому, как добавить очень прочну броню в свои структуры. Позволяет создавать взрывозащищенные двери.</AdvancedArmor.description>
+
+  <TWindows.label>Стена с окном</TWindows.label>
+  <TWindows.description>Позволяет создавать окна в титановых стенах, чтобы облегчить освещение, не нарушая целостность корпуса корабля во время путешествия на FTL...</TWindows.description>
+
+  <TLights.label>Стена с лампами</TLights.label>
+  <TLights.description>Позволяет создавать светильники в титановых стенах.</TLights.description>
+
+  <EMRGDefense.label>Электромагнитный демонтаж</EMRGDefense.label>
+  <EMRGDefense.description>Позволяет строить авто-турели с винтовками EMRG-1.</EMRGDefense.description>
+
+  <DynElect.label>Динамический электромагнетизм</DynElect.label>
+  <DynElect.description>Позволяет создавать передовые здания с использованием электромагнитных компонентов. Это открывает верхний уровень энергетических генераторов и технологий, которые можно найти в каждой установке мира утопии.</DynElect.description>
+
+  <ElectroPlasmatics.label>Электроплазматика</ElectroPlasmatics.label>
+  <ElectroPlasmatics.description>Позволяет направлять плазму с помощью магнитных полей. Разблокирует сверх высокоуровневую технологию, которая обладает экстремальной мощностью плазмы.</ElectroPlasmatics.description>
+
+  <AdvancedFact.label>Расширенная факторизация</AdvancedFact.label>
+  <AdvancedFact.description>Первый шаг в понимании основ передовых методов производства, чтобы предоставить вашей колонии доступ к новейшим сборочным машинам.</AdvancedFact.description>
+
+  <RoboticEngineering.label>Роботизированная инженерия</RoboticEngineering.label>
+  <RoboticEngineering.description>Позволяет проектировать современную сложную робототехнику, полезную для сложного оборудования для точной сборки и большинства машин, найденных в утопических мирах.</RoboticEngineering.description>
+
+  <Electrolysis.label>Электролиз</Electrolysis.label>
+  <Electrolysis.description>Позволяет создавать машины электролиза, для отделения соединений от базовых элементов.</Electrolysis.description>
+
+  <AtomicD.label>Атомный демонтаж</AtomicD.label>
+  <AtomicD.description>Первый компонент для понимания того, как производить атомные процессы, в частности, манипулировать процессами разложения материи на субатомном уровне.</AtomicD.description>
+
+  <AtomicA.label>Атомная сборка</AtomicA.label>
+  <AtomicA.description>Последний компонент для понимания того, как производить атомные процессы. Это даст вам полное представление о том, как производить материал на субатомном уровне. В то время как большинство процессов по-прежнему недоступны с точки зрения требований к энергопотреблению, есть несколько элементов выбора, которые являются промышленно правдоподобными.</AtomicA.description>
+
+  <Pharmaceuticals.label>Фармацевтические препараты</Pharmaceuticals.label>
+  <Pharmaceuticals.description>Позволяет изготавливать, смешивать и производить передовые лекарства, а не полагаться на натуральные и менее эффективные заменители трав.</Pharmaceuticals.description>
+
+
+</LanguageData>

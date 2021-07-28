@@ -2,6 +2,12 @@
 <Defs>
 	<!-- Added body parts -->
 
+	<HediffDef Name="AddedBodyPartBase_GT" Abstract="True">
+		<hediffClass>Hediff_AddedPart</hediffClass>
+		<defaultLabelColor>(0.5, 0.5, 0.9)</defaultLabelColor>
+		<isBad>false</isBad>
+	</HediffDef>
+	
 	<HediffDef ParentName="AddedBodyPartBase_GT">
 		<defName>OCExo</defName>
 		<label>Orion Exoskeleton</label>

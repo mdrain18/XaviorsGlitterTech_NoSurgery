@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OCSoldier.label>солдат корп. Орион</OCSoldier.label>
+  <OCSoldier.labelPlural>солдат корп. Орион</OCSoldier.labelPlural>
+
+  <OCHeavy.label>подрывник корп. Орион</OCHeavy.label>
+  <OCHeavy.labelPlural>подрывник корп. Орион</OCHeavy.labelPlural>
+
+  <OCPeaceKeeper.label>миротворец корп. Орион</OCPeaceKeeper.label>
+  <OCPeaceKeeper.labelPlural>миротворец корп. Орион</OCPeaceKeeper.labelPlural>
+
+  <OCDirector.label>директор корп. Орион</OCDirector.label>
+  <OCDirector.labelPlural>директор корп. Орион</OCDirector.labelPlural>
+
+
+</LanguageData>

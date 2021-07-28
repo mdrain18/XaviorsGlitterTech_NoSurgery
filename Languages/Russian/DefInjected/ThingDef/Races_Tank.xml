@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Race_Tank.label>Танк</Race_Tank.label>
+  <Race_Tank.description>Основной боевой танк. Используется на фронте наземных нападений и в городских боях.</Race_Tank.description>
+  <!-- No Leather: Butcher Products -->
+  <!-- Meat Amount: 0 -->
+  <Race_Tank_Corpse.label>подбитый танк</Race_Tank_Corpse.label>
+  <Race_Tank_Corpse.description>Подбитый танк.</Race_Tank_Corpse.description>
+
+
+</LanguageData>

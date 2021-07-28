@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beds -->
+
+  <ambTable.label>реанимационный под</ambTable.label>
+  <ambTable.description>Предупреждение, этот мед-под калиброван только для пациентов мужского пола. Этот под предназначен для сильно поврежденных патентов. Впрыскивая биоразлагаемые восстанавливающие наномашины в кровоток, этот стол будет восстанавливать большинство ран с течением времени, но некоторые раны по-прежнему потребуют вмешательство врача.</ambTable.description>
+  <ambTable_Blueprint.label>реанимационный под (проект)</ambTable_Blueprint.label>
+  <ambTable_Frame.label>реанимационный под (постройка)</ambTable_Frame.label>
+
+  <DynChair.label>Динамическое релаксирующие кресло</DynChair.label>
+  <DynChair.description>Большое кресло, которое не только динамично успокаивает каждого человека, но и ощущает области определенного дискомфорта и обеспечивает мягкий или интенсивный массаж. Все, что ему нужно, это бар-холодильник...</DynChair.description>
+  <DynChair_Blueprint.label>Динамическое релаксирующие кресло (проект)</DynChair_Blueprint.label>
+  <DynChair_Frame.label>Динамическое релаксирующие кресло (постройка)</DynChair_Frame.label>
+
+
+  <!-- Lighting -->
+
+  <FloodLight.label>Прожектор</FloodLight.label>
+  <FloodLight.description>Прожектор освещает большую площадь, но стоит немного больше.</FloodLight.description>
+  <FloodLight_Blueprint.label>прожектор (проект)</FloodLight_Blueprint.label>
+  <FloodLight_Blueprint_Install.label>прожектор (проект)</FloodLight_Blueprint_Install.label>
+  <FloodLight_Frame.label>прожектор (постройка)</FloodLight_Frame.label>
+
+
+</LanguageData>

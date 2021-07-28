@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Titanium -->
+
+  <Titanium.label>Титан</Titanium.label>
+  <Titanium.description>Титановый сплав. Комплексная смесь редких элементов, создающая очень прочный материал, стойкий к коррозии и высокоскоростной кинетике. Идеально подходит для звездолетов и космических лифтов...</Titanium.description>
+  <Titanium.stuffProps.stuffAdjective>Титан</Titanium.stuffProps.stuffAdjective>
+
+
+  <!-- AlphaPoly -->
+
+  <AlphaPoly.label>Альфа полимер</AlphaPoly.label>
+  <AlphaPoly.description>Первая итерация в искусственно построенной, атомарно собранной, плотной материи. Этот человек изготовил чрезвычайно редкий материал, собранный в высокоскоростном сборщике материи, хорош для построения структур в хроносфере звезд.</AlphaPoly.description>
+  <AlphaPoly.stuffProps.stuffAdjective>Альфа полимер</AlphaPoly.stuffProps.stuffAdjective>
+
+
+  <!-- BetaPoly -->
+
+  <BetaPoly.label>Бета полимер</BetaPoly.label>
+  <BetaPoly.description>Вторая итерация в искусственно построенной, атомарно собранной, плотной материи. Этот человек изготовил чрезвычайно редкий материал, этот материал слишком дорог для массового производства и используется, только как материал для нерушимых космических костюмов, непреодолимых кинетических пуль и для сдерживания черных дыр.</BetaPoly.description>
+  <BetaPoly.stuffProps.stuffAdjective>Бета полимер</BetaPoly.stuffProps.stuffAdjective>
+
+
+  <!-- Components -->
+
+  <MagneticCoil.label>Магнитная катушка</MagneticCoil.label>
+  <MagneticCoil.description>Передовая магнитная катушка. Никто не сможет изготовить, кроме физика электромагнетизма.</MagneticCoil.description>
+
+  <Silicon.label>Кремний</Silicon.label>
+  <Silicon.description>Сырой элементный кремний, используемый в большинстве электронных компонентов.</Silicon.description>
+
+  <ComputerComp.label>Компьютерный компонент</ComputerComp.label>
+  <ComputerComp.description>Расширенные электронные платы. Требуется передовой машиной, когда простой механики просто недостаточно.</ComputerComp.description>
+
+  <Ethanol.label>Этанол</Ethanol.label>
+  <Ethanol.description>Чистый этанол, крепкий спирт, используемый в лекарствах и в большинстве выходных...</Ethanol.description>
+
+  <Bandage.label>Бинты</Bandage.label>
+  <Bandage.description>Бинты, необходимые для перевязки ран, чтобы уменьшить потерю крови.</Bandage.description>
+
+  <Serum.label>Сыворотка</Serum.label>
+  <Serum.description>Готовая сыворотка, используемая в качестве лечения на планетах мира утопии, когда восстановление тела недоступно.</Serum.description>
+
+
+</LanguageData>

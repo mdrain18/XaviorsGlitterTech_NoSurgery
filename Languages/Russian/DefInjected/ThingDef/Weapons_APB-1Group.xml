@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_APBPistol.label>Снаряд APB</Bullet_APBPistol.label>
+
+  <Gun_APB-1Pistol.label>Пистолет APB-1</Gun_APB-1Pistol.label>
+  <Gun_APB-1Pistol.description>Пистолет марк 1 - стреляющий лучом анионовых частиц. Компактная часть винтовки APB-1, этот пистолет продуцирует анионы через водород, создавая нейтрально заряженный кинетический снаряд, способный разрушать вещество на атомном уровне. Точный и мощный, это оружие зажигает большинство целей.</Gun_APB-1Pistol.description>
+
+  <Bullet_APBProjector.label>Снаряд APB</Bullet_APBProjector.label>
+
+  <Gun_APB-1Projector.label>Проектор APB-1</Gun_APB-1Projector.label>
+  <Gun_APB-1Projector.description>Проектор марк 1 - стреляющий лучом анионовых частиц. Последняя вещь в противовоздушном и противотанковом оружии, этот проектор буквально проецирует анионы через водород, создавая нейтрально заряженный кинетический снаряд, способный разрушать вещество на атомном уровне. Точное и мощное, это оружие создаст разрушительный взрыв.</Gun_APB-1Projector.description>
+
+  <Bullet_APBRifle.label>Снаряд APB</Bullet_APBRifle.label>
+
+  <Gun_APB-1Rifle.label>Винтовка APB-1</Gun_APB-1Rifle.label>
+  <Gun_APB-1Rifle.description>Винтовка марк 1 - стреляющий лучом анионовых частиц. На фронте античеловеческого оружия эта винтовка проецирует анионы через водород, создавая нейтрально заряженный кинетический снаряд, способный разрушать вещество на атомном уровне. Точный и мощный, это оружие зажигает большинство целей.</Gun_APB-1Rifle.description>
+
+
+</LanguageData>

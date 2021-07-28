@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Commando.label>Коммандос</Commando.label>
+  <Commando.labelPlural>Коммандос</Commando.labelPlural>
+
+  <CommandoH.label>тяжёлый коммандос</CommandoH.label>
+  <CommandoH.labelPlural>тяжёлый коммандос</CommandoH.labelPlural>
+
+  <CommandoScout.label>коммандос разведчик</CommandoScout.label>
+  <CommandoScout.labelPlural>коммандос разведчик</CommandoScout.labelPlural>
+
+
+</LanguageData>

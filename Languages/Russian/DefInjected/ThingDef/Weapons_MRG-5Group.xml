@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_MRGPistol.label>Снаряд MRG</Bullet_MRGPistol.label>
+
+  <Gun_MRGPistol.label>Пистолет MRG-5</Gun_MRGPistol.label>
+  <Gun_MRGPistol.description>микро-рельсовый пистолет марк 5. Компактная часть винтовки MRG-5, этот пистолет - пятая часть лучших технологий линейного рельсового оружия. Очень точный и мощный.</Gun_MRGPistol.description>
+
+  <Bullet_MRGRifle.label>Снаряд MRG</Bullet_MRGRifle.label>
+
+  <Gun_MRGRifle.label>Винтовка MRG-5</Gun_MRGRifle.label>
+  <Gun_MRGRifle.description>микро-рельсовая винтовка марк 5. Эта винтовка - пятая часть лучших технологий линейного рельсового оружия. Очень точная и мощная.</Gun_MRGRifle.description>
+
+
+</LanguageData>

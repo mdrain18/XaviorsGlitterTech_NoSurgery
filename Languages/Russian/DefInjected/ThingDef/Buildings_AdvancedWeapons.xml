@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EMPCharge.label>Заряд EMPD-1</EMPCharge.label>
+  <EMPCharge.description>EMP заряд, который детонирует по команде. Создает мощный взрыв электромагнитного излучения, который покрывает большой радиус. Используется для защиты от роботизированных угроз, а иногда заставляет бежать людей.</EMPCharge.description>
+  <EMPCharge_Blueprint.label>Заряд EMPD-1 (проект)</EMPCharge_Blueprint.label>
+  <EMPCharge_Frame.label>Заряд EMPD-1 (постройка)</EMPCharge_Frame.label>
+
+  <DepletedEMPCharge.label>Истощенный EMPD-1 заряд</DepletedEMPCharge.label>
+  <DepletedEMPCharge.description>Истощенный EMPD-1 заряд</DepletedEMPCharge.description>
+
+  <FissionBomb.label>Заряд EMPD-1</FissionBomb.label>
+  <FissionBomb.description>EMP заряд, который детонирует по команде. Создает мощный взрыв электромагнитного излучения, который покрывает большой радиус. Используется для защиты от роботизированных угроз, а иногда заставляет бежать людей.</FissionBomb.description>
+  <FissionBomb_Blueprint.label>Заряд EMPD-1 (проект)</FissionBomb_Blueprint.label>
+  <FissionBomb_Frame.label>Заряд EMPD-1 (постройка)</FissionBomb_Frame.label>
+
+
+</LanguageData>

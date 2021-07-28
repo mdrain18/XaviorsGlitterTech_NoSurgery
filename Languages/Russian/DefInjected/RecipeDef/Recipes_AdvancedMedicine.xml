@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildBandages.label>Сделать бинты</BuildBandages.label>
+  <BuildBandages.description>Сделать бинты.</BuildBandages.description>
+  <BuildBandages.jobString>Делает бинты.</BuildBandages.jobString>
+
+  <BuildMedicine.label>Сделать медикаменты</BuildMedicine.label>
+  <BuildMedicine.description>Сделать медикаменты.</BuildMedicine.description>
+  <BuildMedicine.jobString>Делает медикаменты.</BuildMedicine.jobString>
+
+  <BuildGlitterworldMedicine.label>Сделать медикаменты мира утопии</BuildGlitterworldMedicine.label>
+  <BuildGlitterworldMedicine.description>Сделать медикаменты мира утопии.</BuildGlitterworldMedicine.description>
+  <BuildGlitterworldMedicine.jobString>Делает медикаменты мира утопии.</BuildGlitterworldMedicine.jobString>
+
+
+</LanguageData>

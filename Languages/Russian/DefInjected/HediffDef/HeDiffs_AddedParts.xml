@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <GTHeart.label>Кибернетическое сердце</GTHeart.label>
+  <GTLung.label>Кибернетическое легкое</GTLung.label>
+  <GTKidney.label>Кибернетическая почка</GTKidney.label>
+  <GTLiver.label>Кибернетическая печень</GTLiver.label>
+  <GTStomach.label>Кибернетический желудок</GTStomach.label>
+  <GTDentures.label>Продвинутый бионический зубной протез</GTDentures.label>
+  <GTArm.label>продвинутая бионическая рука</GTArm.label>
+  <GTHand.label>продвинутая бионическая кисть</GTHand.label>
+  <GTLeg.label>продвинутая бионическая нога</GTLeg.label>
+  <GTFoot.label>продвинутая бионическая ступня</GTFoot.label>
+  <GTEye.label>продвинутый бионический глаз</GTEye.label>
+  <GTEar.label>продвинутое бионическое ухо</GTEar.label>
+
+
+</LanguageData>

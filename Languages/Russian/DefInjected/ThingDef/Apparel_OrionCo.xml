@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stuff-less apparel -->
+
+  <Apparel_OCCombatVest.label>Боевой жилет Ориона</Apparel_OCCombatVest.label>
+  <Apparel_OCCombatVest.description>Стандартный выпуск боевой одежды корпорации Орион. Оборудован более продвинутыми сплавами, чем обычный жилет.</Apparel_OCCombatVest.description>
+
+  <Apparel_OCHelmet.label>Шлем корп. Орион</Apparel_OCHelmet.label>
+  <Apparel_OCHelmet.description>Стандартный шлем корпорации Орион. Другой характерный синий Орион, он сделан из более продвинутых материалов, чем стандартный шлем.</Apparel_OCHelmet.description>
+
+  <Apparel_OCPants.label>Брюки униформы Орион</Apparel_OCPants.label>
+  <Apparel_OCPants.description>Комплект брюк Орион.</Apparel_OCPants.description>
+
+  <Apparel_OCShirt.label>Костюм униформы Орион</Apparel_OCShirt.label>
+  <Apparel_OCShirt.description>Базовый костюм Орион</Apparel_OCShirt.description>
+
+
+</LanguageData>

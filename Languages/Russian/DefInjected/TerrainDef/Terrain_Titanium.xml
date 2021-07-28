@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tile -->
+
+  <TitaniumTile.label>Титановая плитка</TitaniumTile.label>
+  <TitaniumTile.description>Титановая плитка, выглядит как в мире утопии.</TitaniumTile.description>
+
+  <AlphaTile.label>Альфа-полимерная плитка</AlphaTile.label>
+  <AlphaTile.description>Альфа-полимерная плитка, выглядит как на инопланетных космических кораблях.</AlphaTile.description>
+
+  <BetaTile.label>Бета-полимерная плитка</BetaTile.label>
+  <BetaTile.description>Бета-полимерная плитка, выглядит как на инопланетных космических кораблях.</BetaTile.description>
+
+
+</LanguageData>

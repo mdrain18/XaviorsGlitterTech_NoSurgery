@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <BlastDoor.label>Взрывозащищенная дверь</BlastDoor.label>
+  <BlastDoor.description>Разделяет комнаты. С силовым приводом и невероятно прочная. Предназначена для противостояния орбитальной кинетической бомбардировке...</BlastDoor.description>
+  <BlastDoor_Blueprint.label>Взрывозащищенная дверь (проект)</BlastDoor_Blueprint.label>
+  <BlastDoor_Frame.label>Взрывозащищенная дверь (постройка)</BlastDoor_Frame.label>
+
+
+  <!-- Walls -->
+
+  <WallWindow.label>Стена с окном</WallWindow.label>
+  <WallWindow.description>Стена с противоугонным окном и силовым кабелем.</WallWindow.description>
+  <WallWindow_Blueprint.label>Стена с окном (проект)</WallWindow_Blueprint.label>
+  <WallWindow_Frame.label>Стена с окном (постройка)</WallWindow_Frame.label>
+
+
+  <!-- Lighted -->
+
+  <WallLight_White.label>Стена с лампой</WallLight_White.label>
+  <WallLight_White.description>Стена с лампами, для тех неудобных коридоров, где лампы просто не подходят.</WallLight_White.description>
+  <WallLight_White_Blueprint.label>Стена с лампой (проект)</WallLight_White_Blueprint.label>
+  <WallLight_White_Frame.label>Стена с лампой (постройка)</WallLight_White_Frame.label>
+
+  <WallLight_Red.label>стена с красной лампой</WallLight_Red.label>
+  <WallLight_Red.description>Стена с лампами, для тех неудобных коридоров, где лампы просто не подходят.</WallLight_Red.description>
+  <WallLight_Red_Blueprint.label>стена с красной лампой (проект)</WallLight_Red_Blueprint.label>
+  <WallLight_Red_Frame.label>стена с красной лампой (постройка)</WallLight_Red_Frame.label>
+
+  <WallLight_Green.label>Стена с зеленной лампой</WallLight_Green.label>
+  <WallLight_Green.description>Стена с лампами, для тех неудобных коридоров, где лампы просто не подходят.</WallLight_Green.description>
+  <WallLight_Green_Blueprint.label>Стена с зеленной лампой (проект)</WallLight_Green_Blueprint.label>
+  <WallLight_Green_Frame.label>Стена с зеленной лампой (постройка)</WallLight_Green_Frame.label>
+
+  <WallLight_Blue.label>Стена с синей лампой</WallLight_Blue.label>
+  <WallLight_Blue.description>Стена с лампами, для тех неудобных коридоров, где лампы просто не подходят.</WallLight_Blue.description>
+  <WallLight_Blue_Blueprint.label>Стена с синей лампой (проект)</WallLight_Blue_Blueprint.label>
+  <WallLight_Blue_Frame.label>Стена с синей лампой (постройка)</WallLight_Blue_Frame.label>
+
+  <WallLight_Yellow.label>Стена с жёлтой лампой</WallLight_Yellow.label>
+  <WallLight_Yellow.description>Стена с лампами, для тех неудобных коридоров, где лампы просто не подходят.</WallLight_Yellow.description>
+  <WallLight_Yellow_Blueprint.label>Стена с жёлтой лампой (проект)</WallLight_Yellow_Blueprint.label>
+  <WallLight_Yellow_Frame.label>Стена с жёлтой лампой (постройка)</WallLight_Yellow_Frame.label>
+
+  <WallLight_Purple.label>Стена с пурпурной лампой</WallLight_Purple.label>
+  <WallLight_Purple.description>Стена с лампами, для тех неудобных коридоров, где лампы просто не подходят.</WallLight_Purple.description>
+  <WallLight_Purple_Blueprint.label>Стена с пурпурной лампой (проект)</WallLight_Purple_Blueprint.label>
+  <WallLight_Purple_Frame.label>Стена с пурпурной лампой (постройка)</WallLight_Purple_Frame.label>
+
+  <WallLight_Cyan.label>Стена с голубой лампой</WallLight_Cyan.label>
+  <WallLight_Cyan.description>Стена с лампами, для тех неудобных коридоров, где лампы просто не подходят.</WallLight_Cyan.description>
+  <WallLight_Cyan_Blueprint.label>Стена с голубой лампой (проект)</WallLight_Cyan_Blueprint.label>
+  <WallLight_Cyan_Frame.label>Стена с голубой лампой (постройка)</WallLight_Cyan_Frame.label>
+
+
+</LanguageData>

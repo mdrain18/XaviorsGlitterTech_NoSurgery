@@ -265,7 +265,6 @@
 		</building>
 		<placeWorkers>
 			<li>PlaceWorker_NotUnderRoof</li>
-			<li>PlaceWorker_TurretTop</li>
 		</placeWorkers>
 		<researchPrerequisites>
 			<li>Mortars</li>
@@ -312,6 +311,12 @@
 			<WorkToBuild>4500</WorkToBuild>
 			<Beauty>-60</Beauty>
 		</statBases>
+		<comps>
+			<li Class="CompProperties_Explosive">
+				<explosiveRadius>9.9</explosiveRadius>
+				<explosiveDamageType>Bomb</explosiveDamageType>
+			</li>
+		</comps>
 		<description>An automatic Missile turret. Fires missiles, accurate and powerful. Explodes when damaged</description>
 		<size>(3,3)</size>
 		<costStuffCount>100</costStuffCount>
@@ -337,6 +342,12 @@
 			<WorkToBuild>4800</WorkToBuild>
 			<Beauty>-60</Beauty>
 		</statBases>
+		<comps>
+			<li Class="CompProperties_Explosive">
+				<explosiveRadius>9.9</explosiveRadius>
+				<explosiveDamageType>Bomb</explosiveDamageType>
+			</li>
+		</comps>
 		<description>An automatic Cruise Missile turret. Fires a single very large missile. Explodes when damaged</description>
 		<size>(3,3)</size>
 		<costStuffCount>100</costStuffCount>

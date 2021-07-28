@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_OCPistol.label>Снаряд ОС</Bullet_OCPistol.label>
+
+  <Gun_OCPDPistol.label>Защитный пистолет ОС</Gun_OCPDPistol.label>
+  <Gun_OCPDPistol.description>Линия оборонительного вооружения Корпуса Ориона. Этот пистолет имеет малый вес и идеально подходит для личной защиты во враждебных условиях.</Gun_OCPDPistol.description>
+
+  <Bullet_OCRifle.label>Снаряд APB</Bullet_OCRifle.label>
+
+  <Gun_OCPDRifle.label>Защитная винтовка ОС</Gun_OCPDRifle.label>
+  <Gun_OCPDRifle.description>Линия оборонительного вооружения Корпуса Ориона. Эта винтовка имеет легкий вес и идеально подходит для личной защиты во враждебных условиях.</Gun_OCPDRifle.description>
+
+  <Gun_OCRocket.label>Пусковая установка Ориона</Gun_OCRocket.label>
+  <Gun_OCRocket.description>Стандартный выпуск противотанкового оружия Корпорации Орион. Лазерном направление гораздо более точное, чем у стандартных ракетоносителей</Gun_OCRocket.description>
+
+
+</LanguageData>

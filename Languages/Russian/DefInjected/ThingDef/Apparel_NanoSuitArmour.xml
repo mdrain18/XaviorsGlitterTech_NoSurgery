@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_NanoSuit.label>Нанокостюм</Apparel_NanoSuit.label>
+  <Apparel_NanoSuit.description>Силовая броня дополненная нано технологиями, обычно зарезервирована для коммандос из продвинутых планет мира утопии. Оснащен электромагнитными барьерами, которые будут отражать большинство видов кинетического оружия.</Apparel_NanoSuit.description>
+
+  <Apparel_NanoSuitHelmet.label>Шлем нанокостюма</Apparel_NanoSuitHelmet.label>
+  <Apparel_NanoSuitHelmet.description>Интегрируемый с нанокостюмом шлем. В комплекте с блестящим информационным дисплеем. Включает в себя новейшее программное обеспечение нейро-кибернетического противодействия вторжению (защита от психических эффектов)</Apparel_NanoSuitHelmet.description>
+
+  <Apparel_Reactive.label>Реактивный костюм</Apparel_Reactive.label>
+  <Apparel_Reactive.description>Силовое реактивное покрытие. Очень тяжелое, но отталкивает большое количество входящих атак.</Apparel_Reactive.description>
+
+  <Apparel_NanoSkin.label>Кожно-волоконный костюм</Apparel_NanoSkin.label>
+  <Apparel_NanoSkin.description>Тонкая нанотехнологическая кожа. Не такая долговечная, как полный нанокостюм, но достаточно компактная, для ношения под одеждой и даже нанокостюмом. Этот доспех обычно носят супер солдаты высшего уровня под их костюмами или высоко ценными целями, для защиты от убийства.</Apparel_NanoSkin.description>
+
+  <Apparel_NanoSpeed.label>Скоростной кожаный костюм</Apparel_NanoSpeed.label>
+  <Apparel_NanoSpeed.description>Тонкая нанотехнологическая кожа. Подобная конструкция к волокнистому костюму, но соткана из реактивного жидкого кристалла металла, который фрактально увеличивает скорость и движение. Существенно увеличивает скорость за счет защиты.</Apparel_NanoSpeed.description>
+
+
+</LanguageData>
