@@ -41,6 +41,7 @@
 			<needsRest>false</needsRest>
 			<hasGenders>false</hasGenders>
 			<foodType>None</foodType>
+			<bloodDef>Filth_MachineBits</bloodDef>
 		</race>
 	</ThingDef>
 
@@ -69,6 +70,7 @@
 			<body>TankChassis</body>
 			<baseBodySize>3.0</baseBodySize>
 			<baseHealthScale>10.5</baseHealthScale>
+			<gestationPeriodDays>100</gestationPeriodDays>
 			<lifeStageAges>
 				<li>
 					<def>OCTankFullyFormed</def>
